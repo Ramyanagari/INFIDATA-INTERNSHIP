@@ -1,0 +1,6 @@
+f=open("story.txt",mode='w')
+f.write("There is a playground.")
+f.write("An aeroplane is in the sky.\n")
+f.write("The sky is pink.")
+f.write("Alphabets and numbers are allowed in the password")
+f.close()

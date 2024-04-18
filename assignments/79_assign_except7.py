@@ -1,0 +1,11 @@
+set1={2,3}
+set2={3,2}
+set3={2,1}
+if(set1==set2):
+    print("yes")
+else:
+    print("no")
+if(set1==set3):
+    print("yes")
+else:
+    print("no")

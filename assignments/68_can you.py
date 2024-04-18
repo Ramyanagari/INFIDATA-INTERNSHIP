@@ -1,0 +1,1 @@
+t1=("Can","You","can","a","can","as","a","canner","can","can","a","can")
