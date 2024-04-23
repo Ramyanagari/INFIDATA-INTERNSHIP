@@ -6,7 +6,6 @@ myconn = mysql.connector.connect(
 )
 mycursor = myconn.cursor()
 
-
 try:
     mycursor.execute("CREATE DATABASE company")
     print("database created successfully")
